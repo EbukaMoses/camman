@@ -5,117 +5,98 @@
     <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="image/Banner.jpg" class="d-block w-100" alt="...">
+                <img src="image/Banner3.jpg" class="d-block w-100" alt="...">
             </div>
             <div class="carousel-item">
                 <img src="image/Banner2.jpg" class="d-block w-100" alt="...">
-            </div>
-            <!-- <div class="carousel-item">
-                <img src="image/Banner.jpg" class="d-block w-100" alt="...">
-            </div> -->
-        </div>
-    </div>
-</section>
-
-<section>
-    <div class="container">
-        <div class="row mt-5">
-            <h4 class="fw-bold text-center">NEWS FROM OUR MEMBERS</h4>
-            <h4 class="fw-bold text-center">ANNOUNCEMENTS</h4>
-        </div>
-        <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <div class="row">
-                        <div class="col-md-4"><img src="image/Banner.jpg" class="d-block w-100 img-fluid" alt="...">
-                        </div>
-                        <div class="col-md-4"><img src="image/Banner.jpg" class="d-block w-100 img-fluid" alt="...">
-                        </div>
-                        <div class="col-md-4"><img src="image/Banner.jpg" class="d-block w-100 img-fluid" alt="...">
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <div class="row">
-                        <div class="col-md-4"><img src="image/Banner.jpg" class="d-block w-100 img-fluid" alt="...">
-                        </div>
-                        <div class="col-md-4"><img src="image/Banner.jpg" class="d-block w-100 img-fluid" alt="...">
-                        </div>
-                        <div class="col-md-4"><img src="image/Banner.jpg" class="d-block w-100 img-fluid" alt="...">
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <div class="row">
-                        <div class="col-md-4"><img src="image/Banner.jpg" class="d-block w-100 img-fluid" alt="...">
-                        </div>
-                        <div class="col-md-4"><img src="image/Banner.jpg" class="d-block w-100 img-fluid" alt="...">
-                        </div>
-                        <div class="col-md-4"><img src="image/Banner.jpg" class="d-block w-100 img-fluid" alt="...">
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
     </div>
 </section>
 <br><br>
 <section>
-    <div class="container t-5m">
-        <div class="row">
-            <img src="image/1920x400-p1x.jpg" class="img-fluid" alt="">
-            <div class="col-md-6"> <img src="image/banner-7585x188-px.jpg" class="img-fluid" alt=""></div>
-            <div class="col-md-6"> <img src="image/banner-7585x188-2-px.jpg" class="img-fluid" alt=""></div>
-        </div>
+    <div class="container">
         <div class="row mt-5">
-            <h4 class="fw-bold text-center">NEWS FROM THE INDUSTRY</h4>
-            <h4 class="fw-bold text-center">ANNOUNCEMENTS</h4>
-        </div>
-        <br><br>
-        <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <div class="row">
-                        <div class="col-md-3"><img src="image/33-480x251.jpg" class="d-block w-100 img-fluid" alt="...">
-                        </div>
-                        <div class="col-md-3"><img
-                                src="image/Ana-Sayfa-Resim_Erse-Kablo-Üretim-Tesisi-scaled-480x320.jpg"
-                                class="d-block w-100 img-fluid" alt="...">
-                        </div>
-                        <div class="col-md-3"><img src="image/image002-480x270.jpg" class="d-block w-100 img-fluid"
-                                alt="...">
-                        </div>
-                        <div class="col-md-3"><img src="image/Kabloder-2020GenelKurul-1-scaled-480x360.jpg"
-                                class="d-block w-100 img-fluid" alt="...">
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <div class="row">
-                        <div class="col-md-3"><img src="image/33-480x251.jpg" class="d-block w-100 img-fluid" alt="...">
-                        </div>
-                        <div class="col-md-3"><img
-                                src="image/Ana-Sayfa-Resim_Erse-Kablo-Üretim-Tesisi-scaled-480x320.jpg"
-                                class="d-block w-100 img-fluid" alt="...">
-                        </div>
-                        <div class="col-md-3"><img src="image/image002-480x270.jpg" class="d-block w-100 img-fluid"
-                                alt="...">
-                        </div>
-                        <div class="col-md-3"><img src="image/Kabloder-2020GenelKurul-1-scaled-480x360.jpg"
-                                class="d-block w-100 img-fluid" alt="...">
-                        </div>
-                    </div>
-                </div>
-
+            <div class="col-md-6">
+                <img src="image/copper.jpg" alt="" class="img-fluid img_home">
+            </div>
+            <div class="col-md-6 p-5">
+                <h1 class="fw-bold">About Caman</h1>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere fugiat vitae unde corrupti! Harum,
+                    consequatur. Quam debitis animi qui similique totam iste autem temporibus tenetur, libero officia
+                    ab, dolorem voluptas.Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere fugiat vitae
+                    unde corrupti! Harum,
+                    consequatur. Quam debitis animi qui similique totam iste autem temporibus tenetur, libero officia
+                    ab, dolorem voluptas.</p>
+                <a href="about-us.php" class="btn btn-warning">Learn More</a>
             </div>
         </div>
-        <div class="row mt-5">
-            <h4 class="fw-bold text-center">NEWS FROM THE INDUSTRY</h4>
-            <h4 class="fw-bold text-center">ANNOUNCEMENTS</h4>
-        </div>
-        <img src="image/img.png" alt="" class="img-fluid">
     </div>
 </section>
+<div class="container-fluid mt-5 bg-gold">
+    <div class="container">
+        <div class="row p-5">
+            <div class="col-md-6 mt-5">
+                <h2 class="fw-bold">QUALITY ASSURANCE</h2>
+                <p>We are dedicated to providing consistent delivery of world-class performance in welding and cutting
+                    consumables and equipment.
+                    We promise to continue providing the best products at optimized standards in terms of price, quality
+                    and
+                    on-time delivery to our valuable customers.</p>
+            </div>
+            <div class="col-md-6 mt-5">
+                <img src="image/resize-use-768x476.jpg" class="img-fluid" alt="">
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid mt-5 bg-white">
+    <div class="container pt-5">
+        <div class="row">
+            <h2 class="text-center">We are committed to giving you the best</h2>
+            <h6 class="text-center">Have a look at our product catalogue</h6>
+        </div>
+        <div class="row p-5">
+            <div class="col-md-4">
+                <center><i class="fa-brands fa-squarespace service"></i></center>
+                <h5 class="fw-bold text-center">Reliablity</h5>
+                <p class="text-center">Committed to complying with the requirements of the ISO 9001:2015</p>
+            </div>
+            <div class="col-md-4">
+                <center><i class="fa-solid fa-eye service"></i></center>
+                <h5 class="fw-bold text-center">Experience</h5>
+                <p class="text-center">Experience
+                    A strong legacy holding up since 1978</p>
+            </div>
+            <div class="col-md-4">
+                <center><i class="fa-solid fa-book-open-reader service"></i></center>
+                <h5 class="fw-bold text-center">Certified Solutions</h5>
+                <p class="text-center">We have set measurable objectives at corporate & departmental levels which are
+                    reviewed as necessary for continual suitability.</p>
+            </div>
+
+        </div>
+        <div class="row p-5">
+            <div class="col-md-4">
+                <center><i class="fa-regular fa-comments service"></i></center>
+                <h5 class="fw-bold text-center">Communication</h5>
+                <p class="text-center">Communication
+                    We are always open to your suggestions 24/7</p>
+            </div>
+            <div class="col-md-4">
+                <center><i class="fa-regular fa-screwdriver-wrench service"></i></center>
+                <h5 class="fw-bold text-center">Development</h5>
+                <p class="text-center">We are always looking to improve our services in any way possible.</p>
+            </div>
+            <div class="col-md-4">
+                <center><i class="fa-regular fa-gear service"></i></center>
+                <h5 class="fw-bold text-center">Manufacturing</h5>
+                <p class="text-center">Producing quality cables and wires that meet customers’ requirement</p>
+            </div>
+
+        </div>
+    </div>
+</div>
 
 <?php
     include("footer.php");

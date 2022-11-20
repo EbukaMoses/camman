@@ -14,7 +14,7 @@
         <link rel="stylesheet" href="css/main.css">
     </head>
     <body>
-        <section class="top_nav">
+        <!-- <section class="top_nav">
             <div class="container pt-2 pb-2">
                 <div class="row">
                     <div class="col-md-6">
@@ -34,7 +34,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <header class="menu_wrapper">
             <nav class="navbar navbar-expand-lg">
                 <div class="container">
