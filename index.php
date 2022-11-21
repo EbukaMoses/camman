@@ -37,8 +37,10 @@
     <div class="container">
         <div class="row p-5">
             <div class="col-md-6 mt-5">
-                <h2 class="fw-bold">QUALITY ASSURANCE</h2>
-                <p>We are dedicated to providing consistent delivery of world-class performance in welding and cutting
+                <h2 class="fw-bold text-white">QUALITY ASSURANCE</h2>
+                <p class="text-white">We are dedicated to providing consistent delivery of world-class performance in
+                    welding and
+                    cutting
                     consumables and equipment.
                     We promise to continue providing the best products at optimized standards in terms of price, quality
                     and
