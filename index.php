@@ -5,10 +5,10 @@
     <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="image/Banner3.jpg" class="d-block w-100" alt="...">
+                <img src="image/Banner4.jpg" class="d-block w-100" alt="...">
             </div>
             <div class="carousel-item">
-                <img src="image/Banner2.jpg" class="d-block w-100" alt="...">
+                <img src="image/Banner4B.jpg" class="d-block w-100" alt="...">
             </div>
         </div>
     </div>

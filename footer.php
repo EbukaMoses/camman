@@ -47,10 +47,9 @@
             </div>
             <div class="col-md-3">
                 <h4 class="footer_title">CONTACT</h4>
-                <h6 class="footer_contect"><a href=""> Asmali Mescit Mah. General Yazgan Sok. Arzu Han No:15 Floor:6
-                        BEYOĞLU – ISTANBUL</a></h6>
+                <h6 class="footer_contect"><a href="">Nigeria</a></h6>
                 <h6 class="footer_contect"><a href="tel:+2348134771000">07030000000</a></h6>
-                <h6 class="footer_contect"><a href="tel:+2348134771000">info@camman.com</a></h6>
+                <h6 class="footer_contect"><a href="tel:+2348134771000">info@caman.com</a></h6>
                 <div class="footer_social  d-flex flex-row ">
                     <h6 class="footer_contect"><a href="#">FOLLOW US :&nbsp;&nbsp;</a></h6>
                     <a href=""><i class="fa-brands fa-instagram pl-2 pr-2"></i></a>&nbsp;
