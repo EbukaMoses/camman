@@ -84,11 +84,14 @@
                                                         <a href="technical-committee.php" class="list-group-item"><i
                                                                 class="fa-solid fa-paper-plane"></i> Technical
                                                             Committee</a>
-                                                        <a href="./pdf/Kabloder_Tuzuk_Son.pdf"
+                                                        <a href="members.php" class="list-group-item"><i
+                                                                class="fa-solid fa-arrow-up-right-from-square"></i>
+                                                            Be Our Member</a>
+                                                        <!-- <a href="./pdf/Kabloder_Tuzuk_Son.pdf"
                                                             class="list-group-item"><i
                                                                 class="fa-solid fa-arrow-up-right-from-square"></i>
                                                             Association
-                                                            Bylaws</a>
+                                                            Bylaws</a> -->
                                                     </div>
                                                 </div>
                                             </div>

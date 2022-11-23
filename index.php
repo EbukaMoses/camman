@@ -18,9 +18,9 @@
     <div class="container">
         <div class="row mt-5">
             <div class="col-md-6">
-                <img src="image/copper.jpg" alt="" class="img-fluid img_home">
+                <img src="image/cables5.jpg" alt="" class="img-fluid img_home">
             </div>
-            <div class="col-md-6 p-5">
+            <div class="col-md-6 px-5">
                 <h1 class="fw-bold">About Caman</h1>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere fugiat vitae unde corrupti! Harum,
                     consequatur. Quam debitis animi qui similique totam iste autem temporibus tenetur, libero officia
@@ -33,6 +33,7 @@
         </div>
     </div>
 </section>
+<br><br>
 <div class="container-fluid mt-5 bg-gold">
     <div class="container">
         <div class="row p-5">
@@ -46,8 +47,8 @@
                     and
                     on-time delivery to our valuable customers.</p>
             </div>
-            <div class="col-md-6 mt-5">
-                <img src="image/resize-use-768x476.jpg" class="img-fluid" alt="">
+            <div class="col-md-6 mt-5 mb-5">
+                <img src="image/cables1.jpg" class="img-fluid" alt="">
             </div>
         </div>
     </div>

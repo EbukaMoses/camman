@@ -1,3 +1,10 @@
+/**
+* Template Designed By : Ebuka Moses 
+* Template URL : https : // ebukamoses.netlify.app// 
+* Author : Ebuka Moses 
+* License : https : // twitter.com/Bukan_moses
+
+*/
 @import url("https://fonts.googleapis.com/css2?family=Fira+Sans:wght@200;300;400;500;600&display=swap");
 :root {
   --primary-color: #b36f0b;
@@ -114,7 +121,7 @@ form .btn:hover {
   color: var(--white-color);
 }
 
-.img_home{
+.img_home {
   /* width: 1250px; */
   border-radius: 15px;
   -webkit-border-radius: 15px;
@@ -217,9 +224,9 @@ footer {
   color: var(--primary-color);
   /* text-decoration: underline; */
   font-family: "IBM Plex Sans", sans-serif;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 800;
-  margin-top: 3%;
+  margin-top: 7%;
   text-transform: uppercase;
 }
 
@@ -275,10 +282,6 @@ footer {
     /* height: 80px!important; */
   }
 }
-
-
-
-
 
 @import "https://unpkg.com/open-props";
 @import "https://unpkg.com/open-props/normalize.min.css";

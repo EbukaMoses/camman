@@ -22,7 +22,7 @@
     <div class="container-fluid footer2 pl-5 pr-5">
         <div class="row">
             <div class="col-md-3">
-                <h5 class="footer_title">CORPORATE</h5>
+                <h4 class="footer_title">CORPORATE</h4>
                 <h6 class="footer_contect"><a href="">about us</a></h6>
                 <h6 class="footer_contect"><a href="">Board of Directors</a></h6>
                 <h6 class="footer_contect"><a href="">Supervisory Board</a></h6>
@@ -31,7 +31,7 @@
                 <a href="index.php"><img src="image/footer.png" class="img-fluid mt-2" width="120" alt=""></a>
             </div>
             <div class="col-md-3">
-                <h5 class="footer_title">ANNOUNCEMENTS</h5>
+                <h4 class="footer_title">ANNOUNCEMENTS</h4>
                 <h6 class="footer_contect"><a href="">Regulations</a></h6>
                 <h6 class="footer_contect"><a href="">Standards</a></h6>
                 <h6 class="footer_contect"><a href="">Technical Articles</a></h6>
@@ -39,14 +39,14 @@
                 <h6 class="footer_contect"><a href="">Industry News</a></h6>
             </div>
             <div class="col-md-3">
-                <h5 class="footer_title"> LINKS</h5>
+                <h4 class="footer_title"> LINKS</h4>
                 <h6 class="footer_contect"><a href="">Home page</a></h6>
                 <h6 class="footer_contect"><a href="">Library</a></h6>
                 <h6 class="footer_contect"><a href="">Communication</a></h6>
 
             </div>
             <div class="col-md-3">
-                <h5 class="footer_title">CONTACT</h5>
+                <h4 class="footer_title">CONTACT</h4>
                 <h6 class="footer_contect"><a href=""> Asmali Mescit Mah. General Yazgan Sok. Arzu Han No:15 Floor:6
                         BEYOĞLU – ISTANBUL</a></h6>
                 <h6 class="footer_contect"><a href="tel:+2348134771000">07030000000</a></h6>
